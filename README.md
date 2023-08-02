@@ -87,7 +87,7 @@ We are gonna wait you on the road
 
 수많은 별들처럼
 
-사라져도 태어나기를
+사라져도 태어나기를
 
 그렇게 이 우주는
 
