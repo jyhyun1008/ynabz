@@ -85,7 +85,7 @@ we are gonna find the way to sky
 
 각자 좋아하는 걸 이야기하고 그 앞엔
  
-색색의 정원이 있어
+색색의 정원이 있어
 
 -
 
