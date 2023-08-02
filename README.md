@@ -69,17 +69,27 @@
 
 we are gonna find the way to sky
 
+-
+
 (verse#3)
 
 (pre#2)
 
-(chorus#2)
+-
 
-네가 어디에 있든
+저기 흐르는 별에
 
-너의 우주는 여기에 있어
+작은 소원을 빌어
 
-We are gonna wait you on the road
+우리들의 소망으로만
+
+채워질 편지지
+
+지치고 힘들어도
+
+나를 안아 줄 우주가 있어
+
+we are gonna find the way to sky
 
 -
 
