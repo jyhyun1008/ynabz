@@ -33,7 +33,7 @@ body {
 }
 
 .frame {
-    width: 100vw;
+    width: 95vw;
     max-width: 1200px;
     min-height: 300px;
     margin: 50px auto;
@@ -43,6 +43,10 @@ body {
 }
 
 .title {
+    text-align: center;
+}
+
+.illust {
     text-align: center;
 }
 
@@ -65,9 +69,16 @@ body {
     row-gap: 30px;
 }
 
+.gallery .item {
+    background: white;
+    line-height: 0;
+    border-radius: 45px 0 45px 0;
+}
+
 .gallery .item img {
     width: 47vw;
     max-width: 270px;
+    border-radius: 45px 0 45px 0;
 }
 
 .credit {
