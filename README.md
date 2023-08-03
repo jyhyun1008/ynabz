@@ -2,7 +2,7 @@
 
 [BGM](https://www.youtube.com/watch?v=QpR1YV6yRmc)
 
-![모음](https://github.com/jyhyun1008/ynabz/assets/93899740/c0971cc3-1871-4e6d-b0ae-77b31bfe775a)
+![모음](https://github.com/jyhyun1008/ynabz/assets/93899740/a7239065-6cbe-4751-ada4-419ef1a3e54f)
 
 - Music: @hyun1008@i.peacht.art
 - Lyrics inspired by: @jarm@qdon.space
