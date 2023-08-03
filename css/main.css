@@ -21,6 +21,8 @@ a {
 
 h1 {
     color: var(--a);
+    line-height: 1.3em;
+    text-decoration: none;
 }
 
 body {
