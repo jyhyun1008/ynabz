@@ -33,7 +33,7 @@ body {
 }
 
 .frame {
-    width: 95vw;
+    width: 95%;
     max-width: 1200px;
     min-height: 300px;
     margin: 50px auto;
@@ -76,7 +76,7 @@ body {
 }
 
 .gallery .item img {
-    width: 47vw;
+    width: 45vw;
     max-width: 270px;
     border-radius: 45px 0 45px 0;
 }
@@ -87,4 +87,19 @@ body {
 
 .credit h1 {
     text-align: center;
+}
+
+@media only screen and (max-width: 800px) {
+    
+    .gallery .item {
+        background: white;
+        line-height: 0;
+        border-radius: 3vw 0 3vw 0;
+    }
+    
+    .gallery .item img {
+        width: 45vw;
+        border-radius: 3vw 0 3vw 0;
+    }
+
 }
