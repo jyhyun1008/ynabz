@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap');
+
+@font-face {
+    font-family: 'Cafe24SsurroundAir';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2105_2@1.0/Cafe24SsurroundAir.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+:root {
+    --accent: #fffdf1;
+    --black: #29233b;
+    --bg: #29233bcc;
+}
+
+body {
+    font-family: 'Comfortaa', 'Cafe24SsurroundAir';
+    color: var(--accent);
+    background-image: url('../assets/bg.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    line-height: 1.8em;
+}
+
+.frame {
+    width: 100vw;
+    max-width: 1200px;
+    min-height: 300px;
+    margin: 50px auto;
+    padding: 10px;
+    background-color: var(--bg);
+    border-radius: 10px;
+}
+
+.title {
+    text-align: center;
+}
+
+.illust img {
+    width: 100%;
+    border-radius: 15px;
+}
+
+.lyrics {
+    text-align: center;
+    margin: 30px 0;
+}
+
+.gallery {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    row-gap: 30px;
+}
+
+.gallery .item img {
+    width: 47vw;
+    max-width: 270px;
+}
