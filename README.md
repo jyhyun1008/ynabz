@@ -5,6 +5,7 @@
 ![모음](https://github.com/jyhyun1008/ynabz/assets/93899740/0c08176d-3441-4fca-bdfa-a0289cbb9bea)
 
 - Music: @hyun1008@i.peacht.art
+- Lyrics inspired by: @jarm@qdon.space
 - Tune(Teto): @pijon@buttersc.one
 - Character Design:
     - @atLuminon@stella.place (Stella)
