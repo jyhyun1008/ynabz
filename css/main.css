@@ -9,14 +9,24 @@
 
 :root {
     --accent: #fffdf1;
+    --a: #dcc8fd;
     --black: #29233b;
     --bg: #29233bcc;
+}
+
+a {
+    color: var(--a);
+    text-decoration: none;
+}
+
+h1 {
+    color: var(--a);
 }
 
 body {
     font-family: 'Comfortaa', 'Cafe24SsurroundAir';
     color: var(--accent);
-    background-image: url('../assets/bg.jpg');
+    background-image: linear-gradient(180deg, #dcc8fdcc, #fffdf1cc), url('../assets/bg.jpg');
     background-attachment: fixed;
     background-size: cover;
     line-height: 1.8em;
@@ -47,6 +57,7 @@ body {
 }
 
 .gallery {
+    margin: 50px 0;
     width: 100%;
     display: flex;
     flex-wrap: wrap;
@@ -57,4 +68,12 @@ body {
 .gallery .item img {
     width: 47vw;
     max-width: 270px;
+}
+
+.credit {
+    margin: 50px 0;
+}
+
+.credit h1 {
+    text-align: center;
 }
